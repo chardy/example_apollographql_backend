@@ -1,0 +1,15 @@
+dump
+node_modules
+log
+dist
+dump.sql
+.env
+.env.local
+pgdata
+src/node_modules
+src/.env
+src/config/database.json
+.DS_Store
+log/*
+src/storage/*
+yarn-error.log
